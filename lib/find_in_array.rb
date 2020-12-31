@@ -5,7 +5,7 @@ def find_element_index(array, value_to_find)
   # return array.index(value_to_find) => I thought of this before scrolling down
   #                                      to the conclusion and was confused as to
   #                                      why we need to use a loop
-  
+   
   
   x = 0
   ans = nil
